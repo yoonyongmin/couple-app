@@ -1,1 +1,1 @@
-# oknym
+# couple-app
